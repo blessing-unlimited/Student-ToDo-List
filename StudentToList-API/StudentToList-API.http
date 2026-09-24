@@ -1,0 +1,72 @@
+@hostAddress = http://localhost:5239
+
+GET {{hostAddress}}/weatherforecast/
+Accept: application/json
+
+### Student endpoints
+
+GET {{hostAddress}}/api/student
+Accept: application/json
+
+###
+
+GET {{hostAddress}}/api/student/7c9e6679-7425-40de-944b-e07fc1f90ae7
+Accept: application/json
+
+###
+
+POST {{hostAddress}}/api/student
+Content-Type: application/json
+{
+  "name": "Timthoy",
+  "lastname": "Makhu",
+  "email": "timothy@example.com"
+}
+
+###
+PUT {{hostAddress}}/api/student/7c77cc8a-9b92-4180-a49e-403dad4d5cfc
+Content-Type: application/json
+{
+  "name": "Timothy",
+  "lastname": "Makhukhula",
+  "email": "timothy@example.com"
+}
+
+###
+DELETE {{hostAddress}}/api/student/7c77cc8a-9b92-4180-a49e-403dad4d5cfc
+Accept: application/json
+
+### Task Endpoints 
+
+#Get all tasks 
+GET {{hostAddress}}/api/tasks
+Accept: application/json
+
+### Get a specific task
+GET {{hostAddress}}/api/tasks/2023617258
+Accept: application/json
+
+
+### Create a new task
+POST {{hostAddress}}/api/tasks
+Content-Type: application/json
+{
+    "taskname": "Finish Ice Task",
+    "description": "Complete Programming 3B assignment due monday",
+    "completed": false,
+    "importance": 0
+}
+
+### Edit a task
+PUT {{hostAddress}}/api/tasks/945069063
+Content-Type: application/json
+{
+    "taskname": "Finish Ice Task",
+    "description": "Complete Programming 3B assignment due Tuseday",
+    "completed": false,
+    "importance": 0
+}
+
+### Delete a task
+DELETE {{hostAddress}}/api/tasks/1917947566
+Accept: application/json
