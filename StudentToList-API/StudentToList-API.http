@@ -58,7 +58,7 @@ Content-Type: application/json
 }
 
 ### Edit a task
-PUT {{hostAddress}}/api/tasks/945069063
+PUT {{hostAddress}}/api/tasks/588171658
 Content-Type: application/json
 {
     "taskname": "Finish Ice Task",

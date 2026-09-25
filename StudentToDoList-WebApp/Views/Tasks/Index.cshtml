@@ -1,0 +1,61 @@
+@model IEnumerable<StudentToDoList_WebApp.Models.Tasks>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TaskName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImportanceList)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Completed)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.TaskName
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.ImportanceList
+            </td>
+            <td>
+                    @if (item.Completed)
+                    {
+                        <text>Yes</text>
+                    }
+                    else
+                    {
+                        <Text>No</Text>
+                    }
+
+                   
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="text-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

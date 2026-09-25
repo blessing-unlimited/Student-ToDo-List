@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\studenttolist-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\studenttolist-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttolist-api\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DAC859-1D2A-3026-A86F-7A8B339CA9CC}|StudentToList-API\\StudentToList-API.csproj|solutionrelative:studenttolist-api\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|c:\\users\\dell\\documents\\projects folder\\studenttolist-api\\studenttodolist-webapp\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201A7944-7E51-47B2-B041-A1CEE7D5789C}|StudentToDoList-WebApp\\StudentToDoList-WebApp.csproj|solutionrelative:studenttodolist-webapp\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentToList-API.http",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\StudentToList-API.http",
               "RelativeDocumentMoniker": "StudentToList-API\\StudentToList-API.http",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\StudentToList-API.http",
               "RelativeToolTip": "StudentToList-API\\StudentToList-API.http",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-09-15T13:59:56.521Z",
               "IsPinned": true,
@@ -68,99 +72,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Program.cs",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T16:30:58.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T16:26:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Views\\Tasks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Delete.cshtml",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Views\\Tasks\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:26:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T16:30:58.781Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwFoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:39:24.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:22:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Views\\Tasks\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T16:41:12.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "StudentToList-API\\Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Controllers\\TasksController.cs",
               "RelativeToolTip": "StudentToList-API\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAD4v1UAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T13:49:37.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\DTO\\TaskDTO.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\DTO\\TaskDTO.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\DTO\\TaskDTO.cs",
-              "RelativeToolTip": "StudentToList-API\\DTO\\TaskDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T16:53:57.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "StudentToList-API\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:24:20.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Program.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Program.cs",
-              "RelativeToolTip": "StudentToList-API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T14:13:18.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Models\\Student.cs",
-              "RelativeToolTip": "StudentToList-API\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:12:21.714Z"
+              "WhenOpened": "2026-09-24T16:05:04.072Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\DTO\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\DTO\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\DTO\\StudentDTO.cs",
-              "RelativeToolTip": "StudentToList-API\\DTO\\StudentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T14:08:39.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\Services\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "StudentToList-API\\Services\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:24:58.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Tasks.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Models\\Tasks.cs",
-              "RelativeDocumentMoniker": "StudentToList-API\\Models\\Tasks.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToList-API\\Models\\Tasks.cs",
-              "RelativeToolTip": "StudentToList-API\\Models\\Tasks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "StudentToDoList-WebApp\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Projects Folder\\StudentToList-API\\StudentToDoList-WebApp\\Models\\Tasks.cs",
+              "RelativeToolTip": "StudentToDoList-WebApp\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:35:08.692Z"
+              "WhenOpened": "2026-09-24T15:37:52.682Z"
             }
           ]
         },
