@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="StudentToDoList-WebApp/StudentToDoList-WebApp.csproj" Id="201a7944-7e51-47b2-b041-a1cee7d5789c" />
   <Project Path="StudentToList-API/StudentToList-API.csproj" />
 </Solution>
